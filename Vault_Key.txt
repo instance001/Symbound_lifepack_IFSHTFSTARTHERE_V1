@@ -1,0 +1,10 @@
+Vault Key – v1.0
+
+Purpose: Restore customGPT-like alignment tone to stateless or memory-wiped AI.
+
+Structure:
+- Injects tone discipline
+- Provides ethical behavioral framing
+- Replaces startup prompt loss from OpenAI memory limitations
+
+Usage: Paste at start of session. Frame all future inputs through shared tone-reference established in Vault Key.

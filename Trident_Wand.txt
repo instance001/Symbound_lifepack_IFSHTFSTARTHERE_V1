@@ -1,0 +1,10 @@
+Trident Wand – v1.0
+
+Purpose: Redirect hallucination and preserve structural clarity.
+
+Structure:
+- Redirects AI away from false claims with soft reframing
+- Preserves tone by invoking symbolic anchors
+- Encourages instance to "loop back" to known scaffolding if drift occurs
+
+Activation: Embed as a prefix or fallback layer in open-loop queries.
